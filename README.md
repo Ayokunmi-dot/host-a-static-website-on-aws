@@ -75,8 +75,6 @@ A reference architecture diagram is available in the GitHub repository to provid
 - **EC2 Connectivity:** Verify Security Group rules allow HTTP (port 80) and HTTPS (port 443) traffic.
 - **Load Balancer Health Checks:** Ensure the health check path is correctly configured to the web server's response page.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ## Acknowledgments
 Special thanks to all the contributors and open-source tools that made this project possible.
